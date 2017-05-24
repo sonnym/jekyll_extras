@@ -1,0 +1,9 @@
+[submodule "elm"]
+	path = elm
+	url = git@github.com:sonnym/jekyll_elm.git
+[submodule "example_embed"]
+	path = example_embed
+	url = git@github.com:sonnym/jekyll_example_embed.git
+[submodule "fancy_link"]
+	path = fancy_link
+	url = git@github.com:sonnym/jekyll_fancy_link.git
